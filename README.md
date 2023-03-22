@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jyoti Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width=400 src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif">
+<img align="right" alt="coding" width=400 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotikumari11&label=Profile%20views&color=0e75b6&style=flat" alt="jyotikumari11" /> </p>
 
