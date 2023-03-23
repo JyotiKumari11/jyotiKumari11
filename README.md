@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Jyoti Kumari,from Ranchi</h1>
+<h1 align="center">Hi 👋, I'm Jyoti Kumari,   from Jharkhand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm">
 
